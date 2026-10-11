@@ -15,3 +15,5 @@ Local deterministic tests → Stellar Testnet → independent security review �
 
 ## Required decisions
 Concrete user problem; state/transition invariants; authorized actors and revocation; data minimization and commitment format; upgradeability; resource/cost bounds; event semantics; and operational key custody.
+
+Recorded decisions live in [ADR/](ADR/); the first use case is [ADR-0001](ADR/0001-trust-trail-commitment-anchor.md). Data rules are normative in [DATA_BOUNDARIES.md](DATA_BOUNDARIES.md).
